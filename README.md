@@ -8,18 +8,22 @@
 
 ## 🧠 Sobre mí
 
-Soy un desarrollador enfocado en **Inteligencia Artificial, Machine Learning y soluciones inteligentes**.  
-Me apasiona crear sistemas capaces de **analizar datos, aprender patrones y automatizar procesos reales**.
+Soy un desarrollador en proceso de formación, enfocado en Inteligencia Artificial y Machine Learning.
+Me encuentro aprendiendo y fortaleciendo mis conocimientos para crear sistemas capaces de analizar datos, identificar patrones y automatizar procesos reales.
 
-Actualmente me especializo en:
+Actualmente me encuentro en proceso de aprendizaje y práctica en:
 
-- 🤖 Inteligencia Artificial aplicada  
-- 📊 Análisis y visualización de datos  
-- 🧠 Modelos de Machine Learning y Deep Learning  
-- 🧩 Integración de IA en aplicaciones reales  
-- 🚀 Desarrollo de soluciones escalables para negocios y educación  
+🤖 Fundamentos de Inteligencia Artificial
 
-Mi objetivo es convertirme en **especialista en IA** y construir proyectos que generen impacto real.
+📊 Análisis de datos y exploración de información
+
+🧠 Modelos de Machine Learning
+
+🧩 Aplicación de IA en proyectos reales
+
+🚀 Desarrollo de soluciones orientadas a la mejora de procesos
+
+Mi objetivo es especializarme en Inteligencia Artificial, desarrollando proyectos que me permitan crecer profesionalmente y generar impacto real a través de la tecnología.
 
 ---
 
