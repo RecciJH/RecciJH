@@ -65,23 +65,11 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 <code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg"></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
 
-
-
-## 🚀 Proyectos destacados
-
-- 🤖 **Lumi – Asistente Docente Inteligente**  
-  Sistema de IA que genera planeaciones, analiza rendimiento académico, crea materiales educativos y automatiza procesos docentes.
-
-- 📊 Sistemas de análisis de datos con IA
-- 🧠 Modelos predictivos
-- 💬 Asistentes conversacionales
-- 📈 Dashboards inteligentes
-
----
+--
 
 ## 🎯 Objetivo profesional
 
-Convertirme en **Ingeniero Especialista en Inteligencia Artificial**
+Especializarme en **Inteligencia Artificial avanzada**, con un enfoque en el desarrollo de agentes inteligentes, sistemas autónomos y modelos capaces de razonar, aprender y tomar decisiones, aplicando las tecnologías más disruptivas y exponenciales de la IA para resolver problemas reales y generar impacto a gran escala.
 
 ---
 
