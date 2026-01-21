@@ -3,7 +3,6 @@
 <h3 align="center">Bienvenido a mi perfil de GitHub</h3>
 </div>
 
-<img src="https://i.imgur.com/Ue3KvmX.png">
 
 ---
 
@@ -25,7 +24,7 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 ---
 
 ## 🧠 Áreas de enfoque
-
+- Agentes IA
 - Machine Learning
 - Deep Learning
 - NLP (Procesamiento de Lenguaje Natural)
@@ -93,7 +92,7 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 
 ## 🎯 Objetivo profesional
 
-Convertirme en **Ingeniero Especialista en Inteligencia Artificial**, desarrollar productos propios y crear una **startup de IA** enfocada en soluciones reales para empresas, educación y negocios.
+Convertirme en **Ingeniero Especialista en Inteligencia Artificial**
 
 ---
 
