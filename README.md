@@ -41,38 +41,41 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 <br/>
 
 ### 🔹 Lenguajes
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
+
 
 ---
 
 ### 🔹 Inteligencia Artificial & Machine Learning
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></code>
+
 
 ---
 
 ### 🔹 NLP & Modelos de Lenguaje
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/transformers/transformers.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spacy/spacy.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg"/></code>
+
 
 ---
 
 ### 🔹 Backend & Data
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
+
 
 ---
 
 ### 🔹 Visualización y Reportes
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/plotly/plotly.png"></code>
-<code><img height="40" width="40" src="https://matplotlib.org/_static/images/logo2.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/></code>
+<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg"/></code>
 
 ---
 
