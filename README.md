@@ -43,7 +43,7 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 ### 🔹 Lenguajes
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/java.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/></code>
 
 
 ---
@@ -56,16 +56,9 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 
 ---
 
-### 🔹 NLP & Modelos de Lenguaje
-<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg"/></code>
-
-
----
-
 ### 🔹 Backend & Data
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/></code>
 
 
 ---
