@@ -61,6 +61,11 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 
 ---
 
+### 🔹 Entorno de experimentación
+<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecolab.svg"></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"></code>
+
+
 
 ## 🚀 Proyectos destacados
 
