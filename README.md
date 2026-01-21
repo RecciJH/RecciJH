@@ -59,7 +59,7 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 ### 🔹 Backend & Data
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/></code>
-
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
 
 ---
 
