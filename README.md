@@ -43,7 +43,7 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 ### 🔹 Lenguajes
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/></code>
+<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/java.svg"/></code>
 
 
 ---
@@ -52,14 +52,11 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/></code>
 <code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/></code>
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg"/></code>
 
 
 ---
 
 ### 🔹 NLP & Modelos de Lenguaje
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/></code>
 <code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg"/></code>
 
 
@@ -73,11 +70,6 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 
 ---
 
-### 🔹 Visualización y Reportes
-<code><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/plotly.svg"/></code>
-
----
 
 ## 🚀 Proyectos destacados
 
