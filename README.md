@@ -1,32 +1,103 @@
 <div align="center">
-<h1 align="center">Explorando mi rincón digital en GitHub. ¡Bienvenido a mi repositorio!</h1>
+<h1 align="center">🤖 Explorando mi universo de Inteligencia Artificial</h1>
+<h3 align="center">Bienvenido a mi perfil de GitHub</h3>
 </div>
+
 <img src="https://i.imgur.com/Ue3KvmX.png">
 
+---
 
+## 🧠 Sobre mí
 
-## Sobre mi
-Amante de la tecnología y apasionado por aprender más cada día. Comprometido con alcanzar mis objetivos a través de esfuerzo y dedicación. En constante búsqueda de nuevos desafíos y oportunidades para crecer.
-<br>
+Soy un desarrollador enfocado en **Inteligencia Artificial, Machine Learning y soluciones inteligentes**.  
+Me apasiona crear sistemas capaces de **analizar datos, aprender patrones y automatizar procesos reales**.
 
-## Lenguajes y herramientas *
-#
-<img align="left" height="300px" width="300px" src="https://i.imgur.com/jmLfqhW.png"/>
+Actualmente me especializo en:
+
+- 🤖 Inteligencia Artificial aplicada  
+- 📊 Análisis y visualización de datos  
+- 🧠 Modelos de Machine Learning y Deep Learning  
+- 🧩 Integración de IA en aplicaciones reales  
+- 🚀 Desarrollo de soluciones escalables para negocios y educación  
+
+Mi objetivo es convertirme en **especialista en IA** y construir proyectos que generen impacto real.
+
+---
+
+## 🧠 Áreas de enfoque
+
+- Machine Learning
+- Deep Learning
+- NLP (Procesamiento de Lenguaje Natural)
+- Computer Vision
+- Modelos predictivos
+- Sistemas inteligentes
+- Automatización con IA
+- Asistentes inteligentes
+
+---
+
+## ⚙️ Tecnologías de Inteligencia Artificial
+
+<img align="left" height="280px" width="280px" src="https://i.imgur.com/jmLfqhW.png"/>
+
 <br/>
 
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="40" width="40" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-java-programming-language-icon-by-vexels.png"></code>
-<code><img height="40" width="40" src="https://www.naveedashfaq.me/img/c++.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://1000marcas.net/wp-content/uploads/2021/02/Unity-logo.png"></code>
-#
+### 🔹 Lenguajes
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 
-<code><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github-api/github-api.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="40" width="40" src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png"></code>
-<code><img height="40" width="40" src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"></code>
+---
+
+### 🔹 Inteligencia Artificial & Machine Learning
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/tensorflow/tensorflow.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pytorch/pytorch.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/pandas/pandas.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/numpy/numpy.png"></code>
+
+---
+
+### 🔹 NLP & Modelos de Lenguaje
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/transformers/transformers.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/spacy/spacy.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/openai/openai.png"></code>
+
+---
+
+### 🔹 Backend & Data
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/fastapi/fastapi.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+
+---
+
+### 🔹 Visualización y Reportes
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/main/topics/plotly/plotly.png"></code>
+<code><img height="40" width="40" src="https://matplotlib.org/_static/images/logo2.svg"></code>
+
+---
+
+## 🚀 Proyectos destacados
+
+- 🤖 **Lumi – Asistente Docente Inteligente**  
+  Sistema de IA que genera planeaciones, analiza rendimiento académico, crea materiales educativos y automatiza procesos docentes.
+
+- 📊 Sistemas de análisis de datos con IA
+- 🧠 Modelos predictivos
+- 💬 Asistentes conversacionales
+- 📈 Dashboards inteligentes
+
+---
+
+## 🎯 Objetivo profesional
+
+Convertirme en **Ingeniero Especialista en Inteligencia Artificial**, desarrollar productos propios y crear una **startup de IA** enfocada en soluciones reales para empresas, educación y negocios.
+
+---
+
+<div align="center">
+✨ “La inteligencia artificial no reemplaza personas, potencia capacidades.” ✨
+</div>
+
