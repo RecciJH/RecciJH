@@ -38,8 +38,6 @@ Mi objetivo es convertirme en **especialista en IA** y construir proyectos que g
 
 ## ⚙️ Tecnologías de Inteligencia Artificial
 
-<img align="left" height="280px" width="280px" src="https://i.imgur.com/jmLfqhW.png"/>
-
 <br/>
 
 ### 🔹 Lenguajes
